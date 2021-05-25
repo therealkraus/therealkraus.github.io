@@ -9,7 +9,7 @@ p {
 }
 
 a {
-    border-bottom: solid 1px #00c3ff;
+    border-bottom: none;
 }
 
 a:hover {
