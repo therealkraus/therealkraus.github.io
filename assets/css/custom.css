@@ -39,7 +39,6 @@ strong {
     background: #212121 url("images/overlay.png");
     -webkit-box-shadow: 0px 0px 8px 0px #000000; /*SUPPORT ALL BROSWERS*/
     box-shadow: 0px 0px 8px 0px #000000;
-    width: inherit;
 }
 
 #logo {
@@ -67,10 +66,6 @@ strong {
 #nav ul li a.active {
     background: #181818;
     color: #FF3D00;
-}
-
-#main {
-    width: inherit;
 }
 
 #main>section {
