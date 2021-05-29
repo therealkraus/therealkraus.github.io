@@ -4,6 +4,10 @@ body {
     color: #cecece;
 }
 
+.center{
+    text-align: left;
+}
+
 p {
     font-size: 15pt;
 }
