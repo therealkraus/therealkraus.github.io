@@ -188,6 +188,11 @@ button:active,
     display: block;
 }
 
+.image.avatar img {
+    width: 150px;
+    height: 192px;
+}
+
 .imagecontainer:hover .picture {
     transform: scale(1.25);
     opacity: 1;
